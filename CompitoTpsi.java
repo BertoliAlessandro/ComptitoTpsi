@@ -19,6 +19,7 @@ public class CompitoTpsi {
         for (int i=1; i<11; i++)
         {
             System.out.println(i);
+			System.out.println("boh");
         }
             
             
