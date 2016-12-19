@@ -18,7 +18,11 @@ public class CompitoTpsi {
         // TODO code application logic her
         for (int i=1; i<11; i++)
         {
+<<<<<<< HEAD
 			System.out.println("ciaociriprovo")
+=======
+			System.out.println("ciaocomestai")
+>>>>>>> 3Branch
             System.out.println(i);
 			System.out.println("boh");
         }
