@@ -18,7 +18,7 @@ public class CompitoTpsi {
         // TODO code application logic her
         for (int i=1; i<11; i++)
         {
-			System.out.println("qualcosa")
+			System.out.println("ciao")
             System.out.println(i);
 			System.out.println("boh");
         }
